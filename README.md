@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tamás Tisóczki
-- 👀 I’m interested in frontend (HTML, CSS, JS), backend (Python, Java), bash, devops
+- 👀 I’m interested in frontend (HTML, CSS, JS), backend (Python, Java, PostgreSQL), bash, devops
 - 🌱 I’m currently learning devops engineering
 - 💞️ I’m looking to collaborate on devops related subjects
 - 📫 How to reach me tamas.tisoczki@gmail.com
